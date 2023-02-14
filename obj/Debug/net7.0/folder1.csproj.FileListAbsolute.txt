@@ -1,0 +1,15 @@
+/Users/forsyte12316gmail.com/GB_C#_DZ_2/GB_My_Tasks/folder1/bin/Debug/net7.0/folder1
+/Users/forsyte12316gmail.com/GB_C#_DZ_2/GB_My_Tasks/folder1/bin/Debug/net7.0/folder1.deps.json
+/Users/forsyte12316gmail.com/GB_C#_DZ_2/GB_My_Tasks/folder1/bin/Debug/net7.0/folder1.runtimeconfig.json
+/Users/forsyte12316gmail.com/GB_C#_DZ_2/GB_My_Tasks/folder1/bin/Debug/net7.0/folder1.dll
+/Users/forsyte12316gmail.com/GB_C#_DZ_2/GB_My_Tasks/folder1/bin/Debug/net7.0/folder1.pdb
+/Users/forsyte12316gmail.com/GB_C#_DZ_2/GB_My_Tasks/folder1/obj/Debug/net7.0/folder1.csproj.AssemblyReference.cache
+/Users/forsyte12316gmail.com/GB_C#_DZ_2/GB_My_Tasks/folder1/obj/Debug/net7.0/folder1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/forsyte12316gmail.com/GB_C#_DZ_2/GB_My_Tasks/folder1/obj/Debug/net7.0/folder1.AssemblyInfoInputs.cache
+/Users/forsyte12316gmail.com/GB_C#_DZ_2/GB_My_Tasks/folder1/obj/Debug/net7.0/folder1.AssemblyInfo.cs
+/Users/forsyte12316gmail.com/GB_C#_DZ_2/GB_My_Tasks/folder1/obj/Debug/net7.0/folder1.csproj.CoreCompileInputs.cache
+/Users/forsyte12316gmail.com/GB_C#_DZ_2/GB_My_Tasks/folder1/obj/Debug/net7.0/folder1.dll
+/Users/forsyte12316gmail.com/GB_C#_DZ_2/GB_My_Tasks/folder1/obj/Debug/net7.0/refint/folder1.dll
+/Users/forsyte12316gmail.com/GB_C#_DZ_2/GB_My_Tasks/folder1/obj/Debug/net7.0/folder1.pdb
+/Users/forsyte12316gmail.com/GB_C#_DZ_2/GB_My_Tasks/folder1/obj/Debug/net7.0/folder1.genruntimeconfig.cache
+/Users/forsyte12316gmail.com/GB_C#_DZ_2/GB_My_Tasks/folder1/obj/Debug/net7.0/ref/folder1.dll
